@@ -15,7 +15,7 @@ function whileLoop(countdown){
   return ("done");
 }
 
-i = 0
+i = 1
 function incrementVariable() {
   i = i + 1;
   return i;
