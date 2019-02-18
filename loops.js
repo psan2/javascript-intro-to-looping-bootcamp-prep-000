@@ -7,3 +7,10 @@
    }
    return arr
  }
+
+function whileLoop(number){
+  while number > 0 {
+    console.log(--countdown)
+  }
+  return `done`
+}
