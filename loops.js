@@ -9,5 +9,5 @@ function forLoop(arr){
 }
 
 function whileLoop(){
-  
+
 }
